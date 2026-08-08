@@ -1,0 +1,50 @@
+{
+  "synthetic_notice": "These are fictional plans explicitly marked approved for prototype history tests.",
+  "approved_plans": [
+    {
+      "plan_id": "PLAN-001",
+      "household_id": "H-001",
+      "week_start": "2026-06-29",
+      "status": "parent-approved",
+      "weekly_focus": "Predictable before-dinner turns",
+      "activity_ids": ["ACT-003", "ACT-004"],
+      "approved_on": "2026-06-29"
+    },
+    {
+      "plan_id": "PLAN-002",
+      "household_id": "H-002",
+      "week_start": "2026-06-29",
+      "status": "parent-approved",
+      "weekly_focus": "Short supported turns",
+      "activity_ids": ["ACT-003", "ACT-011"],
+      "approved_on": "2026-06-30"
+    },
+    {
+      "plan_id": "PLAN-003",
+      "household_id": "H-003",
+      "week_start": "2026-06-29",
+      "status": "parent-approved",
+      "weekly_focus": "Two-choice bedtime sequence",
+      "activity_ids": ["ACT-004", "ACT-007", "ACT-015"],
+      "approved_on": "2026-06-29"
+    },
+    {
+      "plan_id": "PLAN-004",
+      "household_id": "H-004",
+      "week_start": "2026-06-29",
+      "status": "parent-approved",
+      "weekly_focus": "Slow down shared transitions",
+      "activity_ids": ["ACT-004", "ACT-008"],
+      "approved_on": "2026-06-30"
+    },
+    {
+      "plan_id": "PLAN-005",
+      "household_id": "H-005",
+      "week_start": "2026-06-29",
+      "status": "parent-approved",
+      "weekly_focus": "Quiet re-entry after noisy play",
+      "activity_ids": ["ACT-002", "ACT-015"],
+      "approved_on": "2026-06-30"
+    }
+  ]
+}

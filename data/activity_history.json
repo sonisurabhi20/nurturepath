@@ -1,0 +1,15 @@
+{
+  "synthetic_notice": "All activity outcomes are invented prototype observations, not clinical records.",
+  "history": [
+    {"history_id": "AH-001", "household_id": "H-001", "child_id": "CH-001A", "activity_id": "ACT-003", "tried_on": "2026-07-01", "parent_reported_outcome": "Joined for three turns."},
+    {"history_id": "AH-002", "household_id": "H-001", "child_id": "CH-001B", "activity_id": "ACT-004", "tried_on": "2026-07-02", "parent_reported_outcome": "Followed the picture pair on three evenings."},
+    {"history_id": "AH-003", "household_id": "H-002", "child_id": "CH-002A", "activity_id": "ACT-003", "tried_on": "2026-07-07", "parent_reported_outcome": "Rolled the ball with an adult prompt."},
+    {"history_id": "AH-004", "household_id": "H-002", "child_id": "CH-002B", "activity_id": "ACT-011", "tried_on": "2026-07-08", "parent_reported_outcome": "Chose the book helper role."},
+    {"history_id": "AH-005", "household_id": "H-003", "child_id": "CH-003B", "activity_id": "ACT-007", "tried_on": "2026-07-01", "parent_reported_outcome": "Chose pajamas before story."},
+    {"history_id": "AH-006", "household_id": "H-003", "child_id": "CH-003A", "activity_id": "ACT-009", "tried_on": "2026-07-10", "parent_reported_outcome": "Declined the unfamiliar paper once."},
+    {"history_id": "AH-007", "household_id": "H-004", "child_id": "CH-004A", "activity_id": "ACT-015", "tried_on": "2026-07-09", "parent_reported_outcome": "Rejoined the transition after one familiar page."},
+    {"history_id": "AH-008", "household_id": "H-004", "child_id": "CH-004B", "activity_id": "ACT-008", "tried_on": "2026-07-10", "parent_reported_outcome": "Practiced gentle hands with the toy."},
+    {"history_id": "AH-009", "household_id": "H-005", "child_id": "CH-005A", "activity_id": "ACT-002", "tried_on": "2026-07-01", "parent_reported_outcome": "Sat in the quiet corner for two minutes."},
+    {"history_id": "AH-010", "household_id": "H-005", "child_id": "CH-005B", "activity_id": "ACT-014", "tried_on": "2026-07-02", "parent_reported_outcome": "Completed the bedtime-step coloring page."}
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "synthetic_notice": "All households and names in this file are invented for the prototype and are not based on real people.",
+  "households": [
+    {
+      "household_id": "H-001",
+      "caregiver_display_name": "Mira Vale",
+      "timezone": "Synthetic Local Time",
+      "children": [
+        {
+          "child_id": "CH-001A",
+          "display_name": "Nilo",
+          "age_months": 18,
+          "age_band": "18–24 months"
+        },
+        {
+          "child_id": "CH-001B",
+          "display_name": "Tara",
+          "age_months": 42,
+          "age_band": "36–48 months"
+        }
+      ],
+      "routine_context": "Both children are home before dinner; caregiver prefers activities under 15 minutes.",
+      "available_materials": ["paper", "chunky crayons", "board books", "large soft ball", "glue stick"]
+    },
+    {
+      "household_id": "H-002",
+      "caregiver_display_name": "Dev Rowan",
+      "timezone": "Synthetic Local Time",
+      "children": [
+        {
+          "child_id": "CH-002A",
+          "display_name": "Lumi",
+          "age_months": 20,
+          "age_band": "18–24 months"
+        },
+        {
+          "child_id": "CH-002B",
+          "display_name": "Arin",
+          "age_months": 44,
+          "age_band": "36–48 months"
+        }
+      ],
+      "routine_context": "Shared play happens after the afternoon snack; transitions are easier with picture cues.",
+      "available_materials": ["paper", "large picture cards", "stuffed toy", "large soft ball"]
+    },
+    {
+      "household_id": "H-003",
+      "caregiver_display_name": "Sena Brook",
+      "timezone": "Synthetic Local Time",
+      "children": [
+        {
+          "child_id": "CH-003A",
+          "display_name": "Omi",
+          "age_months": 19,
+          "age_band": "18–24 months"
+        },
+        {
+          "child_id": "CH-003B",
+          "display_name": "Kavi",
+          "age_months": 43,
+          "age_band": "36–48 months"
+        }
+      ],
+      "routine_context": "Bedtime begins at the same synthetic time each evening; caregiver wants fewer activity choices.",
+      "available_materials": ["routine cards", "board books", "chunky crayons", "cushion"]
+    },
+    {
+      "household_id": "H-004",
+      "caregiver_display_name": "Ari Fen",
+      "timezone": "Synthetic Local Time",
+      "children": [
+        {
+          "child_id": "CH-004A",
+          "display_name": "Pia",
+          "age_months": 18,
+          "age_band": "18–24 months"
+        },
+        {
+          "child_id": "CH-004B",
+          "display_name": "Ravi",
+          "age_months": 42,
+          "age_band": "36–48 months"
+        }
+      ],
+      "routine_context": "Caregiver prefers printable activities on weekends and shared activities during weekday transitions.",
+      "available_materials": ["printer paper", "chunky crayons", "non-toxic glue stick", "large paper shapes"]
+    },
+    {
+      "household_id": "H-005",
+      "caregiver_display_name": "Noa Lark",
+      "timezone": "Synthetic Local Time",
+      "children": [
+        {
+          "child_id": "CH-005A",
+          "display_name": "Eli",
+          "age_months": 21,
+          "age_band": "18–24 months"
+        },
+        {
+          "child_id": "CH-005B",
+          "display_name": "Zia",
+          "age_months": 45,
+          "age_band": "36–48 months"
+        }
+      ],
+      "routine_context": "Caregiver records observations after lunch and uses only materials already listed in the approved catalog.",
+      "available_materials": ["paper", "board books", "large stickers", "stuffed toy"]
+    }
+  ]
+}

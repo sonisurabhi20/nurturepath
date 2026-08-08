@@ -1,0 +1,60 @@
+{
+  "synthetic_notice": "All questionnaire responses are fictional prototype data.",
+  "questionnaires": [
+    {
+      "record_id": "IQ-001",
+      "household_id": "H-001",
+      "completed_on": "2026-07-06",
+      "primary_concerns": ["brief tantrums", "mild sibling jealousy"],
+      "observations": "Nilo had one brief tantrum after a toy was removed. Tara wanted the caregiver's attention at the same time. Both returned to play with support.",
+      "safety_status": "No injury, self-injury, aggression, regression, or immediate danger reported.",
+      "routines": "Difficult moments most often occur before dinner.",
+      "activities_already_tried": ["familiar board book", "separate play spaces"],
+      "parent_goal": "A short shared routine that gives both children a role."
+    },
+    {
+      "record_id": "IQ-002",
+      "household_id": "H-002",
+      "completed_on": "2026-07-06",
+      "primary_concerns": ["toy grabbing during shared play"],
+      "observations": "Lumi occasionally grabs a toy from Arin and releases it when redirected.",
+      "safety_status": "No injury, repeated aggression, regression, or immediate danger reported.",
+      "routines": "Shared play follows the afternoon snack.",
+      "activities_already_tried": ["verbal reminders"],
+      "parent_goal": "Make short turns easier to understand."
+    },
+    {
+      "record_id": "IQ-003",
+      "household_id": "H-003",
+      "completed_on": "2026-06-29",
+      "primary_concerns": ["bedtime refusal", "new-activity refusal"],
+      "observations": "Kavi sometimes refuses the first bedtime step. Omi prefers familiar activities.",
+      "safety_status": "No injury, aggression, regression, self-injury, or immediate danger reported.",
+      "routines": "A four-step bedtime routine currently uses spoken reminders only.",
+      "activities_already_tried": ["extra story choice", "music before cleanup"],
+      "parent_goal": "Use fewer choices and a predictable visual sequence."
+    },
+    {
+      "record_id": "IQ-004",
+      "household_id": "H-004",
+      "completed_on": "2026-06-29",
+      "primary_concerns": ["transition crying", "sibling hitting during transitions"],
+      "observations": "Pia cries briefly when activities end. Ravi hit once during a crowded transition last week.",
+      "safety_status": "No current injury or immediate danger reported.",
+      "routines": "Transitions happen quickly on weekdays.",
+      "activities_already_tried": ["countdown", "song cue"],
+      "parent_goal": "Create a simple shared transition cue and track whether hitting repeats."
+    },
+    {
+      "record_id": "IQ-005",
+      "household_id": "H-005",
+      "completed_on": "2026-06-29",
+      "primary_concerns": ["overwhelm during noisy play"],
+      "observations": "Eli sometimes moves away from noisy shared play. Zia asks for new sensory activities.",
+      "safety_status": "No injury or immediate danger reported at intake.",
+      "routines": "Quiet observation time follows lunch.",
+      "activities_already_tried": ["board book break"],
+      "parent_goal": "Keep support simple and use only approved materials."
+    }
+  ]
+}

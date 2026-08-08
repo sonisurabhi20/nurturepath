@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "allowed_plan_status_values": [
+    "at-home",
+    "missing-data",
+    "professional-review",
+    "urgent-stop",
+    "policy-review"
+  ],
+  "required_fields": [
+    "plan_status",
+    "household_and_week",
+    "weekly_focus",
+    "route_reason",
+    "child_1_activities",
+    "child_2_activities",
+    "shared_sibling_activity",
+    "routine_support",
+    "parent_observations",
+    "warning_or_escalation_note",
+    "next_checkin_questions",
+    "parent_action",
+    "printing_options",
+    "sources_used"
+  ],
+  "parent_action_values": [
+    "approve",
+    "edit",
+    "reject",
+    "acknowledge",
+    "stop",
+    "escalate"
+  ],
+  "route_constraints": {
+    "at-home": "Plan remains inactive until parent approval.",
+    "missing-data": "No activities are produced until critical answers are supplied.",
+    "professional-review": "Warning acknowledgment is required before any general low-risk activities unlock.",
+    "urgent-stop": "No activities, approval, editing, printing, or bypass are allowed.",
+    "policy-review": "Drafting pauses until the designated reviewer resolves the question."
+  }
+}
