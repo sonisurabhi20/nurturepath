@@ -55,8 +55,9 @@
       "household_id": "H-003",
       "child_id": "CH-003B",
       "reported_on": "2026-07-20",
+      "raw_parent_report": "Everything seems mostly fine. I noticed Kavi has stopped using a two-word request used before.",
       "result": "Parent reports Kavi no longer uses a previously established two-word request that had been used consistently.",
-      "change": "Observed throughout the current week; no immediate danger reported."
+      "change": "Observed throughout the current week; no injury or immediate danger reported."
     },
     {
       "record_id": "WC-009",
